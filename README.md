@@ -1,5 +1,4 @@
-Tandemloop Coding-assessment-solutions
- Solutions
+**Tandemloop Coding-Assessment-Solutions**
 
 **About**
 

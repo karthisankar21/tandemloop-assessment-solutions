@@ -33,9 +33,9 @@ Create a small calculator which performs operations such as Addition, Subtractio
 
 Inputs:
 
- - a: double
+ - a : double
 
- - b: double
+ - b : double
 
  - operation: string
 

@@ -1,5 +1,4 @@
-Tandemloop Coding-assessment-solutions
- Solutions
+**Tandemloop Coding-Assessment-Solutions**
 
 **About**
 
@@ -37,7 +36,7 @@ Inputs:
 
  - b : double
 
- - operation: string
+ - operation : string
 
 ---
 
